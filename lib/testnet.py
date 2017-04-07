@@ -1,0 +1,7 @@
+TESTNET = True
+ADDRTYPE_P2PKH = 111
+ADDRTYPE_P2SH = 196
+ADDRTYPE_P2WPKH = 3
+XPRV_HEADER = "04358394"
+XPUB_HEADER = "043587cf"
+HEADERS_URL = "https://headers.electrum.org/testnet_headers"
